@@ -13,3 +13,13 @@ Prototype 3D design in Fusion (only base, still need to add other details): ![re
 
   
 
+## 10/22/2025 - more 3d designing  
+
+a lot of time of my caveman brain trying to figure out how to use fusion
+and after that, actually doing stuff!
+front:![resim.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--cdeb1bcaa20408667185d3595df676d925c95595/resim.png)
+back: ![resim.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--b9f889ed8b26c47a707cc6c3736416235964bed0/resim.png)
+now i have to find an eink display that can fit
+
+  
+
