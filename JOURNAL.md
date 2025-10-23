@@ -23,3 +23,14 @@ now i have to find an eink display that can fit
 
   
 
+## 10/23/2025 - a bit more 3d designing  
+
+added these holes for potential magnets
+![resim.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--b02e68c10c4f1ad630881d36c11b1875a9dba071/resim.png)
+what are these magnets for? you might ask
+well, im planning on adding a stylus!
+and these magnets will be for attaching said stylus, to the side of the reader
+oh heres also a prototype design for the stylus
+![resim.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg2MywicHVyIjoiYmxvYl9pZCJ9fQ==--f5867a1388308401d0b97279dc17d2fd96994021/resim.png)
+  
+
