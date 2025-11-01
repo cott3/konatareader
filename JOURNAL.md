@@ -40,3 +40,11 @@ after struggling to find an eink display that fit the previous dimensions, (165m
 ![resim.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg3MywicHVyIjoiYmxvYl9pZCJ9fQ==--5a6d5fcd76c0c3055a918e41b65ffe394ed21c31/resim.png)
   
 
+## 11/1/2025 - Initial UI design  
+
+designed the UI prototypes for the main "My library" page, an apps list and a few more things
+![resim](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--efc30161330c6b286679311fd0761447588f1bee/resim.png)
+
+for the hardware, im still trying to figure it out, so hang tight!
+  
+
